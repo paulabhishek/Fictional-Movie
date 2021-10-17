@@ -45,3 +45,4 @@ successfully publised to Azure but the DB page don't seem to work.
 
 10 PM
 Unsuccessfully deploying to Azure..
+deployment worked later with no access to the db.
